@@ -82,7 +82,7 @@ jupyter notebook main.ipynb
 ├── shap_summary.png            # SHAP beeswarm summary plot
 ├── shap_feature_importance.png # SHAP mean absolute feature importance
 ├── shap_local_top5.html        # Interactive local SHAP explanations
-└── group_report.pdf            # Full academic report
+└── report.pdf            # Full academic report
 ```
 
 ## Authors
