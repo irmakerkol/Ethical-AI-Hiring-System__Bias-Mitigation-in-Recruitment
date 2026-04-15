@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": "2025-05-25 16:36:55",
+    "scenario": "Gender-Reweighted",
+    "applicant_id": 1,
+    "reason": "why i didn't get hired",
+    "status": "Approved",
+    "reviewer_comments": "you're not qualified",
+    "reviewed_at": "2025-05-25 16:37:11"
+  },
+  {
+    "timestamp": "2025-05-25 16:47:01",
+    "scenario": "Gender-Reweighted",
+    "applicant_id": 1,
+    "reason": "why?",
+    "status": "Denied",
+    "reviewer_comments": "nope",
+    "reviewed_at": "2025-05-25 16:47:20"
+  },
+  {
+    "timestamp": "2025-05-25 16:48:18",
+    "scenario": "Gender-Reweighted",
+    "applicant_id": 3,
+    "reason": "asdasd",
+    "status": "Approved",
+    "reviewer_comments": "asda",
+    "reviewed_at": "2025-05-25 16:48:24"
+  },
+  {
+    "timestamp": "2025-05-25 18:52:32",
+    "scenario": "Gender-Reweighted",
+    "applicant_id": 1,
+    "reason": "why i didn't get hired.",
+    "status": "Denied",
+    "reviewer_comments": "you didn't have references and enough experience.",
+    "reviewed_at": "2025-05-25 18:53:03"
+  }
+]
