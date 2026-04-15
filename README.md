@@ -1,6 +1,6 @@
 # Ethical AI Hiring System — Bias Mitigation in Recruitment
 
-A fairness-aware machine learning pipeline for automated hiring decisions, designed to detect, measure, and mitigate bias across protected attributes (race and gender). Built as part of an ethical AI system design course project.
+A fairness-aware machine learning pipeline for automated hiring decisions, designed to detect, measure, and mitigate bias across protected attributes (race and gender).
 
 ## Overview
 
